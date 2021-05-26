@@ -1,0 +1,3 @@
+{
+    "files": ["qml/new_app_to_activity_segue.qml","qml/new_activity.qml","qml/main.qml","qml/new_company.qml","qml/new_application_verify.qml","qml/pages/dashboard.qml","qml/dashboard_new_nav.qml","qml/pages/new.qml","qml/CustomBorder.qml","qml/new_company_verify_nav.qml","qml/dashboard.qml","qml/new_app_to_activity_nav.qml","qml/new_application_verify_nav.qml","qml/new_application_nav.qml","qml/new_activity_verify_nav.qml","qml/new_company_to_app_segue.qml","qml/new_application.qml","qml/new_activity_nav.qml","qml/new_company_to_app_nav.qml","qml/new_company_nav.qml","qml/new_activity_verify.qml","main.py","qml/new_company_verify.qml","qml/dashboard_nav.qml","applications.py","communications.py","companies.py"]
+}
